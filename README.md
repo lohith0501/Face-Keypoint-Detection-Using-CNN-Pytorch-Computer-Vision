@@ -1,0 +1,2 @@
+# Face-Keypoint-Detection-Using-CNN-Pytorch-Computer-Vision
+This is the project which i completed in Udacity nano degree program. In this project i have created a CNN with 4 layers, maxpooling, dropouts as regularization. This core model helps to detect face and key points/ key areas on the face like eyes,mouth,ears,nose etc. This project helped to recognize any humans in between other objects. I have used Pytorch with Adam optimizer MSE technique to complete the model.
